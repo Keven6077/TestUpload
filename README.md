@@ -7,3 +7,5 @@ Brutales Featcher hätte keiner Gedacht.
 Wie ist wohl die Git GUI.
 
 Puff
+
+Neuer Branch aus Commit
